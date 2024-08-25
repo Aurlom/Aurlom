@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Alex, and I'm a Biochemist trying to break in to biological data science.
+My name is Alex, and I'm a Biochemist looking to move into biological data science.
 
 - 🔭 I’m currently working on my CS50X final project, which I'm planning to be a laboratory task manager for a small team of scientists to act as a virtual Kanban board for a quality control lab.
 - 🌱 I’m currently learning Python, Django, and C# through a combination of CS50W, CS50P, and freeCodeCamp/Microsoft Learn.
